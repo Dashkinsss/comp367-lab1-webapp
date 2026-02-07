@@ -28,3 +28,4 @@
 /Users/dasaivanova/comp367-lab1-webapp/obj/Debug/net8.0/comp367-lab1-webapp.pdb
 /Users/dasaivanova/comp367-lab1-webapp/obj/Debug/net8.0/comp367-lab1-webapp.genruntimeconfig.cache
 /Users/dasaivanova/comp367-lab1-webapp/obj/Debug/net8.0/ref/comp367-lab1-webapp.dll
+/Users/dasaivanova/comp367-lab1-webapp/obj/Debug/net8.0/comp367-lab1-webapp.sourcelink.json
